@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Junpyo Hong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/mimoticon.png"
   bio              : "Learning record"
   location         : "Seoul, Korea"
   email            : "intpboy22@gmail.com"
